@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "opencv": "^6.0.0"
+    "opencv": "^6.1.0"
   }
 }
